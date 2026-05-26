@@ -12,6 +12,14 @@ Businesses often deal with large volumes of operational and financial data sprea
 
 The objective of this dashboard is to transform raw operational data into meaningful KPIs and interactive insights for better decision-making.
 
+## Business Questions Solved
+
+- Which kitchen stores contribute the highest EBITDA?
+- How does revenue vary across cohorts?
+- What are the monthly revenue trends?
+- Which stores require operational attention?
+- How do profitability metrics change under different filters?
+
 
 
 ## 🚀 Features
