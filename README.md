@@ -4,7 +4,7 @@ An interactive dashboard built using **Python, Pandas, Streamlit, and Plotly** t
 
 The dashboard enables users to monitor revenue performance, EBITDA trends, profitability distribution, and store-level operational insights through interactive filters and visualizations.
 
----
+
 
 ## 📌 Problem Statement
 
@@ -12,7 +12,7 @@ Businesses often deal with large volumes of operational and financial data sprea
 
 The objective of this dashboard is to transform raw operational data into meaningful KPIs and interactive insights for better decision-making.
 
----
+
 
 ## 🚀 Features
 
@@ -41,7 +41,7 @@ The objective of this dashboard is to transform raw operational data into meanin
 * Revenue cohort distribution
 * Monthly revenue trend analysis
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -60,12 +60,6 @@ The objective of this dashboard is to transform raw operational data into meanin
 * Jupyter Notebook
 * VS Code
 
----
-
-
-
-
----
 
 ## ⚙️ Installation & Run Locally
 
@@ -93,7 +87,7 @@ Run application:
 streamlit run app.py
 ```
 
----
+
 
 
 ## Learning Outcomes
@@ -107,8 +101,8 @@ Through this project I explored:
 * Dashboard storytelling
 * Building an end-to-end analytical workflow
 
----
 
 
 
-GitHub: [Your GitHub URL]
+
+
