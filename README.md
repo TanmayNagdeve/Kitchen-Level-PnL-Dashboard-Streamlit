@@ -62,26 +62,8 @@ The objective of this dashboard is to transform raw operational data into meanin
 
 ---
 
-## 📂 Project Structure
 
-```bash
-Kitchen-Level-PnL-Dashboard/
-│
-├── data/
-│   └── kitchen_data.csv
-│
-├── notebook/
-│   └── preprocessing.ipynb
-│
-├── app.py
-│
-├── requirements.txt
-│
-├── screenshots/
-│   ├── dashboard_overview.png
-│
-└── README.md
-```
+
 
 ---
 
